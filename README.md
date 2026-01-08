@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on a UI overhaul for Raja Raadh<br>🌱 I’m currently learning firebase, react and expo
 <br>
 
