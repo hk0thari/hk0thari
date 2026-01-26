@@ -2,8 +2,9 @@
 🔭 I’m currently working on a UI overhaul for Raja Raadh<br>🌱 I’m currently learning firebase, react and expo
 <br>
 
-## 👨‍💻 Game Jam Portfolio
-[![itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://hk0thari.itch.io/) 
+## 👨‍💻 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://hk0thari.github.io/)  [![itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://hk0thari.itch.io/) 
 
 ## 💻 Tech Stack:
 #### Languages:
